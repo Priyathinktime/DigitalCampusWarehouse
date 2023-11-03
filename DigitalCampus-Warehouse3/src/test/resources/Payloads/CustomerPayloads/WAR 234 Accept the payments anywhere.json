@@ -1,0 +1,32 @@
+{
+    "invoices": ["121222-01"],
+    "payments": [
+        {
+            "amountPaid": 5,
+            "amountAlloc": 15,
+            "change": 0.00,
+            "paymentType": "Money Order",
+            "comments": "",
+            "tax": "",
+            "holdDate": "2022-11-15"
+        },
+        {
+            "amountPaid": 10,
+            "amountAlloc": 25,
+            "change": 0.00,
+            "paymentType": "Cash",
+            "comments": "",
+            "tax": "",
+            "holdDate": "2022-11-15"
+        },
+        {
+            "amountPaid": 10,
+            "amountAlloc": 35,
+            "change": 0.00,
+            "paymentType": "Cheque",
+            "comments": "",
+            "tax": "",
+            "holdDate": "2022-11-15"
+        }
+    ]
+}

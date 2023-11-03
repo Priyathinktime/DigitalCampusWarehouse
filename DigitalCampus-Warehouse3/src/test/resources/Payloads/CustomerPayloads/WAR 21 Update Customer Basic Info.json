@@ -1,0 +1,21 @@
+{
+    "firstName": "firstName",
+    "lastName": "lastName",
+    "companyName": "SAMS MINI MART 2",
+    "customerType": "R",
+    "vendor": "",
+    "cell": "(336) 437-3709",
+    "email": "MARTENNASRAWIN@AOL.COM",
+    "website": "101 E PARKER ST",
+    "street": "101 E PARKER ST",
+    "city": "GRAHAM",
+    "country": "country",
+    "state": "state",
+    "zip": "111111",
+    "phone": "9999999999",
+    "fax": "fax",
+    "taxId": "taxId",
+    "stateTaxId": "stateTaxId",
+    "cigaretteLicense": "cigaretteLicense",
+    "dea": "dea"
+}

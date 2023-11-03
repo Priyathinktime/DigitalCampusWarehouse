@@ -1,0 +1,14 @@
+{
+    "shipToRef": "",
+    "group": " ",
+    "subGroup": "GS1",
+    "routeName": " xyz",
+    "routeDeliveryDay": "Monday",
+    "zone": " YYY ",
+    "driverName": "",
+    "businessType": "",
+    "salesman": "",
+    "invMemo": "ui",
+    "shippedVia": "",
+    "defaultInvComment": ""
+}

@@ -1,0 +1,45 @@
+{
+    "supplierNumber": "501",
+    "amountPaid": 501,
+    "paymentType": "CASH",
+    "chequeNo": "",
+    "chequeDate": "",
+    "inTheNameOf": "",
+    "bankName": "",
+    "transactionId": "",
+    "transactionDate": "",
+    "invNumber": 435345345,
+    "poDate": "2022-12-22",
+    "paymentTerm": "A.C.H",
+    "receivedDate": "2022-12-22",
+    "poAmount": "501.00",
+    "freight": 0,
+    "tax": 0,
+    "other": 0,
+    "items": [
+        {
+            "itemNumber": "6856756",
+            "stockItemNumber": "24103",
+            "retail": 10.8347,
+            "cost": "12.35",
+            "pTax": "0.00",
+            "quantity": "20",
+            "caseQty": 2,
+            "discount": "",
+            "amount": 247,
+            "price": "12.35"
+        },
+        {
+            "itemNumber": "5464564",
+            "stockItemNumber": "24104",
+            "retail": 13.2,
+            "cost": "12.7",
+            "pTax": "0.00",
+            "quantity": "20",
+            "caseQty": 2,
+            "discount": "",
+            "amount": 254,
+            "price": "12.70"
+        }
+    ]
+}

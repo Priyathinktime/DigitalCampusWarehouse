@@ -1,0 +1,8 @@
+{
+    "permissionIds": [{
+        "id": 1,
+        "value": "123"
+    }, {
+        "id":2
+    }]
+}

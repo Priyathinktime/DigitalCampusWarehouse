@@ -1,0 +1,7 @@
+{
+    "fedTaxID": "abc",
+    "stateTaxID": "xyz",
+    "defaultSalesTax": 1,
+    "defaultCreditCharge": 2,
+    "debitCharge": 3
+}
